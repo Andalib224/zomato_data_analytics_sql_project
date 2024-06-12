@@ -1,2 +1,2 @@
 # zomato_data_analytics_sql_project
-Using a Zomato dummy dataset, a comprehensive data analysis was conducted leveraging SQL. The analysis encompassed various aspects such as golden membership customers, customers, and customer preferences. Through SQL queries, insights were derived regarding customer satisfaction trends. This project provided valuable insights into the dynamics of the food service industry, aiding in strategic decision-making for restaurant owners and stakeholders.
+Analyze a Zomato dummy dataset using SQL to identify the most popular items, evaluate customer membership benefits, track Zomato points accumulation, and examine customer transactions for insights into purchasing behavior and trends.
